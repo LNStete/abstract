@@ -66,7 +66,7 @@ let shapes;
 
 // 毎度おなじみループ雲画像（便利）
 function preload(){
-  cloudImg = loadImage("https://inaridarkfox4231.github.io/assets/texture/cloud.png");
+  cloudImg = loadImage("https://lnstete.github.io/abstract/water_texture.png");
 }
 
 // --------------------------------------------------------------- //
